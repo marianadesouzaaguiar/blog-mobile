@@ -77,7 +77,7 @@ npx expo start
 Configure a URL do seu backend em `src/api/index.js`:
 
 ```js
-baseURL: 'http://SEU_BACKEND_URL/api',
+baseURL: 'http://10.0.0.5:5000/',
 ```
 
 Endpoints esperados:
